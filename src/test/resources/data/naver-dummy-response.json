@@ -1,0 +1,48 @@
+{
+  "lastBuildDate": "Sun, 18 Sep 2022 16:16:29 +0900",
+  "total": 24645,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "IntelliJ Python 플러그인 설치 및 <b>hello</b> <b>word</b> 출력",
+      "link": "https://blog.naver.com/nateen7248?Redirect=Log&logNo=222515651959",
+      "description": "인텔리J 파이썬 플러그인 설치 1. Plugins에서 python으로 플러그인을 검색 합니다. 2.New Project를 확인해 보면 Python이 추가되어있습니다. 3.SDK를 선택 합니다. 3.1 Add Python SDK를... ",
+      "bloggername": "프로그래밍 하는사람-마지막에 남는것은 문서와 코드",
+      "bloggerlink": "https://blog.naver.com/nateen7248",
+      "postdate": "20210924"
+    },
+    {
+      "title": "c# <b>hello</b> <b>word</b> c# 시작 MessageBox.Show",
+      "link": "https://s00741.tistory.com/entry/c-hello-word-c-%EC%8B%9C%EC%9E%91-MessageBoxShow",
+      "description": "c# <b>hello</b> <b>word</b> c# 시작 MessageBox.Show 새 프로젝트를 만들기 프로그래밍의 시작 <b>HELLO</b> WORLD를 출력해볼게요. 콘솔창에 찍을수도 있지만 메세지 박스를 이용해 출력하는 형태로 만들어... ",
+      "bloggername": "꿈꾸는 자 :: 꿈꾸는 자",
+      "bloggerlink": "https://s00741.tistory.com/",
+      "postdate": "20200309"
+    },
+    {
+      "title": "English <b>Word</b> Wednesday: <b>Hello</b>",
+      "link": "https://blog.naver.com/hskcamp0530?Redirect=Log&logNo=222142167218",
+      "description": "Today's <b>word</b> is: <b>Hello</b> #영종도영어 #영종도어학원 #영종도놀이영어 #영종도학원 #영종도스피킹 #영종도영어학원추천 #영종도어학원추천 #영종도원어민강사 #english #academy... ",
+      "bloggername": "ATA어학원",
+      "bloggerlink": "https://blog.naver.com/hskcamp0530",
+      "postdate": "20201112"
+    },
+    {
+      "title": "[JSP]게시판 만들기 1강 :: <b>Hello</b> <b>word</b>! 화면에 띄우기",
+      "link": "https://blog.naver.com/ajy7424?Redirect=Log&logNo=222215429612",
+      "description": "charset=EUC-KR&quot; pageEncoding=&quot;EUC-KR&quot;%&gt; &lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt; &lt;meta charset=&quot;EUC-KR&quot;&gt; &lt;title&gt;<b>Hello</b> World!&lt;/title&gt; &lt;/head&gt; &lt;body&gt; <b>Hello</b> <b>word</b>! &lt;/body&gt; &lt;/html&gt; &lt;head&gt; &lt;meta charset=&quot;EUC-KR... ",
+      "bloggername": "코딩일기",
+      "bloggerlink": "https://blog.naver.com/ajy7424",
+      "postdate": "20210121"
+    },
+    {
+      "title": "안드로이드 스튜디오 설치, 버전 셋팅, <b>hello</b> <b>word</b> 프로그램... ",
+      "link": "https://blog.naver.com/theka265?Redirect=Log&logNo=222735894323",
+      "description": "플레이스토어 되는 버전 프로그램(어플)만들면,, 여러개의 가상 디바이스에서 테스트 할 수 있다. 모바일은 특히 이동성이 있기 때문에 인터넷 재접속요청, 예외처리 등,, 테스트가 중요하다.... ",
+      "bloggername": "Sodam",
+      "bloggerlink": "https://blog.naver.com/theka265",
+      "postdate": "20220517"
+    }
+  ]
+}
